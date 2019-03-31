@@ -1,0 +1,22 @@
+{
+    "env": {
+        "node": true
+    },
+    "extends": "airbnb-base",
+    "rules": {
+        "no-console": "off",
+        "no-param-reassign": "off",
+        "no-underscore-dangle": "off",
+        "arrow-parens": "off",
+        "max-len": "off",
+        "camelcase": "off",
+        "comma-dangle": "off",
+        "import/no-extraneous-dependencies": "off",
+        "import/no-dynamic-require": "off",
+        "global-require": "off",
+        "no-await-in-loop": "off",
+        "no-restricted-syntax": "off",
+        "linebreak-style": "off",
+        "radix": "off"
+    }
+}
